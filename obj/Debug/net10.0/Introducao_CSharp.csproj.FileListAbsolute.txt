@@ -1,0 +1,15 @@
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/bin/Debug/net10.0/Introducao_CSharp
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/bin/Debug/net10.0/Introducao_CSharp.deps.json
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/bin/Debug/net10.0/Introducao_CSharp.runtimeconfig.json
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/bin/Debug/net10.0/Introducao_CSharp.dll
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/bin/Debug/net10.0/Introducao_CSharp.pdb
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.AssemblyInfoInputs.cache
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.AssemblyInfo.cs
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.csproj.CoreCompileInputs.cache
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.sourcelink.json
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.dll
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/refint/Introducao_CSharp.dll
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.pdb
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/Introducao_CSharp.genruntimeconfig.cache
+/home/alberto/Documentos/desenvolvimento/Introducao_CSharp/obj/Debug/net10.0/ref/Introducao_CSharp.dll
